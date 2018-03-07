@@ -1,2 +1,3 @@
 # hello_world
 initial project
+first of all you need a rhythm -- so...
